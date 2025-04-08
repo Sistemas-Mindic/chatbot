@@ -1,2 +1,2 @@
-# chatbot
-Chatbot especializado en Medicarama en base a un RAG
+# Chatbot
+Chatbot especializado Medicarama en base a información subida a un RAG
